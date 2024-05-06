@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as an intern game designer for an educational company<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I game and program<br>- 🎺 I like listening to and playing music</p>
+<p align="left">- 🔭 I’m working as an intern game designer for an educational company<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I like to game and program<br>- 🎺 I like listening to and playing music</p>
 
 ###
 
