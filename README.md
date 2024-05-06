@@ -1,24 +1,6 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/46881115?s=400&u=6917ab0600ee14ec95ffecd0ba4cc3e05dadd6e5&v=4"  />
+  <img height="200" src="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="elephant_1214" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elephant1214.Elephant1214&"  />
-</div>
-
-###
-
-<h1 align="center">Hello There</h1>
 
 ###
 
@@ -26,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as an intern game designer for an educational company<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I game and program<br>- 🎺 I like listening to and playing music and hope to join a professional dum corps next summer</p>
+<p align="left">- 🔭 I’m working as an intern game designer for an educational company<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I game and program<br>- 🎺 I like listening to and playing music and hope to join a professional drum corps next summer</p>
 
 ###
 
@@ -51,10 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
