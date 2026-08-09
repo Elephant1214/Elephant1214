@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Elephant1214&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Elephant1214&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
