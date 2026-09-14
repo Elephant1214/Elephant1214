@@ -36,7 +36,7 @@
 </p>
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
-  <img align="left" height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=Elephant1214&layout=donut&theme=prussian&exclude_repo=StarWarsForceArena" alt="languages" />
+  <img align="left" height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=Elephant1214&layout=donut&theme=prussian&exclude_repo=BlasterGame" alt="languages" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo" />
